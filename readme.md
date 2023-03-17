@@ -17,3 +17,6 @@ Once the endpoints are ready, we code a simple alexa skill that would get trigge
 References:
 Coding Alexa Skills in Python by NeuralNine
 https://www.youtube.com/watch?v=G1cDLqhhBsU
+
+See it in action:
+https://drive.google.com/file/d/1CWArGWP42dKwqRjEJFro9KHevi0UuMat/view?usp=share_link
